@@ -1,0 +1,1 @@
+export const channel = new BroadcastChannel('patient_updates');
