@@ -33,10 +33,10 @@ A simple, frontend-only patient registration system built with React, TypeScript
    npm run dev
 
 Test multi-tab support
-   Open multiple browser tabs
-   Register a patient in one tab
-   See the new entry instantly appear in the others
-   ```
+- Open multiple browser tabs
+- Register a patient in one tab
+- See the new entry instantly appear in the others
+   
 
 ---
 
