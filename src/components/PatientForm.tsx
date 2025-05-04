@@ -15,8 +15,6 @@ export default function PatientForm({ onRegister }: { onRegister: () => void }) 
             `INSERT INTO patients (name, age, gender, contact) VALUES ('${name}', ${age}, '${gender}', '${contact}')`
         );
 
-        
-
         onRegister();
         setForm({ name: '', age: '', gender: '', contact: '' });
 
